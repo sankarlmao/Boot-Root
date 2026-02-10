@@ -18,7 +18,7 @@ All access must be obtained through analysis and exploitation of the system itse
 - Locate and submit all **10 valid flags**
 
 
-Flags follow the format: 
+Flags follow the format: RME{this_is_a_flag}
 
 
 
@@ -52,3 +52,4 @@ Do not deploy this system on any public or production network.
 ---
 
 Good luck, and happy hacking.
+
